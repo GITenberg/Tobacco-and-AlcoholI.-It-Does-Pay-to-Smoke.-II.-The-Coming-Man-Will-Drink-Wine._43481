@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/525
     wikipedia: http://en.wikipedia.org/wiki/John_Fiske
 description: A reply to James Parton's "Smoking and drinking".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43481#Tobacco-and-AlcoholI.-It-Does-Pay-to-Smoke.-II.-The-Coming-Man-Will-Drink-Wine.
 gutenberg_issued: '2013-08-15'
 gutenberg_type: Text
 identifiers:
